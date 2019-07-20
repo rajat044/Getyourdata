@@ -6,5 +6,5 @@ Get_Your_Result.ipynb
   
   Most_Inovative.ipynb
     
-    This program extracts data about 60 countries and their indexs of inovation, startup friendlyness, and investment from a website and stores this all data into CSV file. So we can do data manipulation. 
+  This program extracts data about 60 countries and their indexs of inovation, startup friendlyness, and investment from a website and stores this all data into CSV file. So we can do data manipulation. 
   
